@@ -1,0 +1,23 @@
+*** OCR NOISE SAMPLE — freight quote fax ***
+
+vendr: B0sch
+part#: BRK 0007 4412
+descryption: Brke pad sett Frnt
+unitcost: 66.00
+competitorprice: 70
+
+===========
+
+Part Number = FLT00128831
+Description: oil filtr univ.
+Unit Cost $14
+Vendor Mann Filter
+
+===========
+
+PN: ZZ-9999-0000
+Description: Mystery gasket unknown
+Unit Cost: 999.99
+Vendor: NoSuchVendor Inc
+
+(This last line should fall below reconcile confidence and flag human review.)

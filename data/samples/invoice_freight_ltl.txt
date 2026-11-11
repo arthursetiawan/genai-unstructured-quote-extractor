@@ -1,0 +1,29 @@
+SIMULATED PDF INVOICE — Midwest Freight Quotes LLC
+Invoice #: MFQ-2026-1182
+Date: 2026-03-12
+Bill To: Northstar Automotive Distribution
+
+Line items (noisy OCR transcription):
+
+Part Number: BRK-0007-4412
+Description: Brake pad set Front Bosch — ceramic
+Unit Cost: $64.50
+Competitor Price: $71.20
+Vendor: Bosch
+
+---
+
+PN: FLT-0012-8831
+Desc: Oil filter Universal Mann-Filter
+Price: 12.75
+Supplier: Mann-Filter
+
+---
+
+SKU ALT-0023-5501
+Item: Alternator reman Front Denso (core return required)
+cost = 188.00
+competitor price: 205.40
+vendor: Denso
+
+Notes: LTL palletized; dock appointment required. Freight surcharge not itemized.

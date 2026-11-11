@@ -1,0 +1,11 @@
+DEALER PARTS QUOTE (scanned PDF simulation)
+Dealer: Lakeside Ford Parts Counter
+Quote ID: LF-88421
+
+BRK-0027-1190 | Brake pad set Rear Motorcraft | $92.10 | Motorcraft | $98.00
+WP-0034-2204 | Water pump Front Gates | $74.25 | Gates
+SEN-0041-7730 | O2 sensor Upstream NTK | $48.60 | NTK | 52.15
+HUB-0055-9012 | Wheel hub bearing RH Timken | $129.99 | Timken
+
+Vendor note: Motorcraft / Gates / NTK / Timken mixed OEM fulfillment.
+Terms: Net 30. Prices exclude core charges.

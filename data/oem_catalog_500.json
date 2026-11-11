@@ -1,0 +1,3502 @@
+[
+  {
+    "part_number": "FLT-0001-1409",
+    "description": "Oil filter Front Denso",
+    "unit_price": 31.12,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0002-3286",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 174.59,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0003-9935",
+    "description": "Starter motor LH Motorcraft",
+    "unit_price": 284.63,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0004-1520",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 352.1,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0005-4811",
+    "description": "Water pump Universal NTK",
+    "unit_price": 51.4,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0006-4257",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 178.41,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0007-8359",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 14.36,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0008-1106",
+    "description": "O2 sensor RH Dayco",
+    "unit_price": 54.83,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0009-6574",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 165.67,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0010-6514",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 103.09,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0011-2584",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 44.84,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0012-5333",
+    "description": "Control arm LH Valeo",
+    "unit_price": 218.74,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0013-9785",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 267.03,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0014-7201",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 83.04,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0015-6925",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 68.79,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0016-2139",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 31.19,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0017-5741",
+    "description": "Freight pallet strap kit LH NGK",
+    "unit_price": 39.08,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0018-2654",
+    "description": "LTL dock seal gasket Rear Continental",
+    "unit_price": 140.47,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0019-6977",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 16.73,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0020-4432",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 84.27,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0021-2169",
+    "description": "Oil filter Universal Denso",
+    "unit_price": 33.52,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0022-9751",
+    "description": "Alternator reman RH ACDelco",
+    "unit_price": 301.37,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0023-7216",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 133.2,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0024-4598",
+    "description": "Radiator assembly Front Gates",
+    "unit_price": 515.7,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0025-1916",
+    "description": "Water pump RH NTK",
+    "unit_price": 182.5,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0026-6168",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 223.47,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0027-4456",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 10.79,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0028-6155",
+    "description": "O2 sensor RH Dayco",
+    "unit_price": 125.41,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0029-7482",
+    "description": "Wheel hub bearing Rear Mann-Filter",
+    "unit_price": 157.98,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0030-3287",
+    "description": "CV axle assembly RH Wix",
+    "unit_price": 100.0,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0031-9830",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 149.2,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0032-8019",
+    "description": "Control arm Universal Valeo",
+    "unit_price": 198.14,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0033-4593",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 177.84,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0034-2489",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 49.2,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0035-3504",
+    "description": "Ignition coil RH Moog",
+    "unit_price": 97.22,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0036-7916",
+    "description": "ABS wheel sensor Universal Fel-Pro",
+    "unit_price": 78.57,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0037-7252",
+    "description": "Freight pallet strap kit Universal NGK",
+    "unit_price": 10.99,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0038-9669",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 159.48,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0039-1188",
+    "description": "Cabin air filter LH Freightliner OEM",
+    "unit_price": 40.99,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0040-9797",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 131.62,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0041-6573",
+    "description": "Oil filter LH Denso",
+    "unit_price": 36.09,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0042-3591",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 190.39,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0043-5315",
+    "description": "Starter motor Universal Motorcraft",
+    "unit_price": 85.96,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0044-9317",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 422.4,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0045-5889",
+    "description": "Water pump Universal NTK",
+    "unit_price": 187.34,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0046-3504",
+    "description": "Timing belt kit Front SKF",
+    "unit_price": 179.84,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0047-9837",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 22.42,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0048-6310",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 130.38,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0049-6947",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 43.51,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0050-4946",
+    "description": "CV axle assembly Universal Wix",
+    "unit_price": 123.67,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0051-2403",
+    "description": "Shock absorber Rear Mahle",
+    "unit_price": 181.51,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0052-9727",
+    "description": "Control arm RH Valeo",
+    "unit_price": 212.28,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0053-8787",
+    "description": "Fuel pump module Universal TRW",
+    "unit_price": 104.67,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0054-9645",
+    "description": "Thermostat housing Universal Monroe",
+    "unit_price": 24.05,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0055-4470",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 56.93,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0056-4295",
+    "description": "ABS wheel sensor Front Fel-Pro",
+    "unit_price": 75.67,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0057-7118",
+    "description": "Freight pallet strap kit Rear NGK",
+    "unit_price": 26.75,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0058-8397",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 146.45,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0059-2049",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 15.68,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0060-4770",
+    "description": "Brake pad set Universal Bosch",
+    "unit_price": 31.2,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0061-2163",
+    "description": "Oil filter LH Denso",
+    "unit_price": 14.98,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0062-1514",
+    "description": "Alternator reman Front ACDelco",
+    "unit_price": 169.41,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0063-4899",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 105.9,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0064-4510",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 384.28,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0065-8744",
+    "description": "Water pump RH NTK",
+    "unit_price": 58.15,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0066-7669",
+    "description": "Timing belt kit RH SKF",
+    "unit_price": 215.85,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0067-8062",
+    "description": "Spark plug iridium Front Timken",
+    "unit_price": 6.72,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0068-8651",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 71.98,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0069-2612",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 161.21,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0070-6559",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 163.64,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0071-4116",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 69.79,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0072-7912",
+    "description": "Control arm RH Valeo",
+    "unit_price": 136.97,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0073-5092",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 145.21,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0074-2604",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 44.35,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0075-9856",
+    "description": "Ignition coil LH Moog",
+    "unit_price": 78.0,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0076-4872",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 92.55,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0077-8886",
+    "description": "Freight pallet strap kit RH NGK",
+    "unit_price": 27.1,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0078-1960",
+    "description": "LTL dock seal gasket RH Continental",
+    "unit_price": 141.73,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0079-7396",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 20.26,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0080-8454",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 168.83,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0081-8973",
+    "description": "Oil filter RH Denso",
+    "unit_price": 22.79,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0082-4566",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 156.72,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0083-9883",
+    "description": "Starter motor LH Motorcraft",
+    "unit_price": 255.86,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0084-1936",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 416.67,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0085-9238",
+    "description": "Water pump Universal NTK",
+    "unit_price": 137.23,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0086-9320",
+    "description": "Timing belt kit LH SKF",
+    "unit_price": 87.27,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0087-2122",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 24.51,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0088-4853",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 30.02,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0089-5033",
+    "description": "Wheel hub bearing Universal Mann-Filter",
+    "unit_price": 61.58,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0090-2343",
+    "description": "CV axle assembly Rear Wix",
+    "unit_price": 210.66,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0091-9565",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 135.18,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0092-4346",
+    "description": "Control arm Front Valeo",
+    "unit_price": 236.61,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0093-7484",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 134.45,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0094-5915",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 61.03,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0095-2188",
+    "description": "Ignition coil LH Moog",
+    "unit_price": 47.09,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0096-2638",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 52.2,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0097-9288",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 33.27,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0098-6718",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 42.88,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0099-7054",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 37.77,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0100-9900",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 51.98,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0101-9666",
+    "description": "Oil filter LH Denso",
+    "unit_price": 30.05,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0102-5905",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 312.06,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0103-3200",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 361.98,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0104-2753",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 157.33,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0105-5616",
+    "description": "Water pump Universal NTK",
+    "unit_price": 62.2,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0106-6617",
+    "description": "Timing belt kit RH SKF",
+    "unit_price": 98.18,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0107-5325",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 20.66,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0108-1832",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 79.65,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0109-5533",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 154.17,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0110-3143",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 65.87,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0111-8239",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 55.85,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0112-1158",
+    "description": "Control arm LH Valeo",
+    "unit_price": 189.66,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0113-3442",
+    "description": "Fuel pump module Universal TRW",
+    "unit_price": 90.32,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0114-7049",
+    "description": "Thermostat housing Universal Monroe",
+    "unit_price": 14.63,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0115-8041",
+    "description": "Ignition coil RH Moog",
+    "unit_price": 68.83,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0116-6974",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 19.3,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0117-4441",
+    "description": "Freight pallet strap kit RH NGK",
+    "unit_price": 50.25,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0118-6794",
+    "description": "LTL dock seal gasket Universal Continental",
+    "unit_price": 115.04,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0119-7658",
+    "description": "Cabin air filter Universal Freightliner OEM",
+    "unit_price": 37.94,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0120-4878",
+    "description": "Brake pad set RH Bosch",
+    "unit_price": 141.92,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0121-3900",
+    "description": "Oil filter Rear Denso",
+    "unit_price": 44.08,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0122-6442",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 103.06,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0123-5065",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 321.66,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0124-2771",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 175.27,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0125-8711",
+    "description": "Water pump RH NTK",
+    "unit_price": 187.63,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0126-8541",
+    "description": "Timing belt kit Front SKF",
+    "unit_price": 95.91,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0127-4728",
+    "description": "Spark plug iridium RH Timken",
+    "unit_price": 11.67,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0128-4164",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 24.79,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0129-2137",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 99.09,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0130-9346",
+    "description": "CV axle assembly Rear Wix",
+    "unit_price": 151.03,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0131-9785",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 138.72,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0132-2889",
+    "description": "Control arm Front Valeo",
+    "unit_price": 237.54,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0133-5349",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 118.21,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0134-8119",
+    "description": "Thermostat housing Front Monroe",
+    "unit_price": 19.91,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0135-6139",
+    "description": "Ignition coil Rear Moog",
+    "unit_price": 85.03,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0136-9379",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 63.89,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0137-4114",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 26.1,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0138-8144",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 30.99,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0139-9821",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 25.2,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0140-2146",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 83.36,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0141-3041",
+    "description": "Oil filter Front Denso",
+    "unit_price": 30.49,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0142-7691",
+    "description": "Alternator reman Front ACDelco",
+    "unit_price": 259.81,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0143-5844",
+    "description": "Starter motor Universal Motorcraft",
+    "unit_price": 203.71,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0144-7888",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 162.19,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0145-3851",
+    "description": "Water pump Universal NTK",
+    "unit_price": 153.53,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0146-7653",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 171.67,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0147-5978",
+    "description": "Spark plug iridium Front Timken",
+    "unit_price": 24.09,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0148-6279",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 46.8,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0149-4501",
+    "description": "Wheel hub bearing Universal Mann-Filter",
+    "unit_price": 119.52,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0150-3780",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 180.93,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0151-6491",
+    "description": "Shock absorber LH Mahle",
+    "unit_price": 75.41,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0152-4848",
+    "description": "Control arm Front Valeo",
+    "unit_price": 212.78,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0153-4262",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 130.65,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0154-5011",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 13.78,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0155-2193",
+    "description": "Ignition coil Rear Moog",
+    "unit_price": 74.24,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0156-4185",
+    "description": "ABS wheel sensor Rear Fel-Pro",
+    "unit_price": 48.74,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0157-4997",
+    "description": "Freight pallet strap kit RH NGK",
+    "unit_price": 31.24,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0158-1090",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 113.57,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0159-4585",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 34.24,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0160-9486",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 150.22,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0161-5082",
+    "description": "Oil filter LH Denso",
+    "unit_price": 8.43,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0162-8612",
+    "description": "Alternator reman Universal ACDelco",
+    "unit_price": 243.35,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0163-6198",
+    "description": "Starter motor Rear Motorcraft",
+    "unit_price": 376.43,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0164-9270",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 361.19,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0165-9976",
+    "description": "Water pump Rear NTK",
+    "unit_price": 180.35,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0166-8777",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 238.93,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0167-5050",
+    "description": "Spark plug iridium Front Timken",
+    "unit_price": 10.59,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0168-9540",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 112.37,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0169-5499",
+    "description": "Wheel hub bearing Rear Mann-Filter",
+    "unit_price": 152.81,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0170-5681",
+    "description": "CV axle assembly RH Wix",
+    "unit_price": 83.98,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0171-6238",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 73.47,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0172-3471",
+    "description": "Control arm RH Valeo",
+    "unit_price": 61.52,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0173-3503",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 173.42,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0174-7678",
+    "description": "Thermostat housing Front Monroe",
+    "unit_price": 16.69,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0175-7812",
+    "description": "Ignition coil LH Moog",
+    "unit_price": 67.92,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0176-7883",
+    "description": "ABS wheel sensor Rear Fel-Pro",
+    "unit_price": 32.34,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0177-1320",
+    "description": "Freight pallet strap kit Universal NGK",
+    "unit_price": 50.53,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0178-1096",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 76.35,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0179-7389",
+    "description": "Cabin air filter Rear Freightliner OEM",
+    "unit_price": 17.45,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0180-9947",
+    "description": "Brake pad set Universal Bosch",
+    "unit_price": 109.81,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0181-8999",
+    "description": "Oil filter RH Denso",
+    "unit_price": 41.07,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0182-8956",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 183.7,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0183-7624",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 199.71,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0184-3091",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 454.61,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0185-7455",
+    "description": "Water pump Universal NTK",
+    "unit_price": 128.47,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0186-1444",
+    "description": "Timing belt kit LH SKF",
+    "unit_price": 170.7,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0187-3223",
+    "description": "Spark plug iridium Rear Timken",
+    "unit_price": 19.6,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0188-5262",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 43.44,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0189-8449",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 98.92,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0190-7211",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 147.69,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0191-7906",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 150.32,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0192-8705",
+    "description": "Control arm LH Valeo",
+    "unit_price": 216.16,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0193-1853",
+    "description": "Fuel pump module Front TRW",
+    "unit_price": 272.24,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0194-2124",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 28.37,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0195-5051",
+    "description": "Ignition coil RH Moog",
+    "unit_price": 87.39,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0196-3496",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 82.3,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0197-2874",
+    "description": "Freight pallet strap kit Universal NGK",
+    "unit_price": 13.93,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0198-8619",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 152.95,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0199-3749",
+    "description": "Cabin air filter Universal Freightliner OEM",
+    "unit_price": 33.84,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0200-2876",
+    "description": "Brake pad set RH Bosch",
+    "unit_price": 120.3,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0201-2771",
+    "description": "Oil filter Universal Denso",
+    "unit_price": 43.64,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0202-6111",
+    "description": "Alternator reman Universal ACDelco",
+    "unit_price": 103.35,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0203-7149",
+    "description": "Starter motor Rear Motorcraft",
+    "unit_price": 284.82,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0204-4249",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 496.0,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0205-4978",
+    "description": "Water pump LH NTK",
+    "unit_price": 138.62,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0206-5941",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 197.92,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0207-1672",
+    "description": "Spark plug iridium Front Timken",
+    "unit_price": 23.43,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0208-7071",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 84.86,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0209-6590",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 131.07,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0210-9031",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 273.15,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0211-6934",
+    "description": "Shock absorber Rear Mahle",
+    "unit_price": 99.36,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0212-8135",
+    "description": "Control arm RH Valeo",
+    "unit_price": 190.0,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0213-5425",
+    "description": "Fuel pump module Universal TRW",
+    "unit_price": 268.12,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0214-9817",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 71.0,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0215-5397",
+    "description": "Ignition coil Front Moog",
+    "unit_price": 60.77,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0216-2419",
+    "description": "ABS wheel sensor Front Fel-Pro",
+    "unit_price": 83.29,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0217-4995",
+    "description": "Freight pallet strap kit Rear NGK",
+    "unit_price": 49.44,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0218-7209",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 101.93,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0219-6325",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 8.0,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0220-6813",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 102.11,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0221-5526",
+    "description": "Oil filter Universal Denso",
+    "unit_price": 19.6,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0222-4130",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 98.3,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0223-7658",
+    "description": "Starter motor Rear Motorcraft",
+    "unit_price": 156.2,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0224-4937",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 337.62,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0225-9041",
+    "description": "Water pump Rear NTK",
+    "unit_price": 148.03,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0226-2524",
+    "description": "Timing belt kit Front SKF",
+    "unit_price": 217.55,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0227-4986",
+    "description": "Spark plug iridium Front Timken",
+    "unit_price": 9.71,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0228-7046",
+    "description": "O2 sensor Rear Dayco",
+    "unit_price": 100.35,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0229-6632",
+    "description": "Wheel hub bearing Rear Mann-Filter",
+    "unit_price": 139.63,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0230-6419",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 309.17,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0231-5438",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 142.46,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0232-2976",
+    "description": "Control arm RH Valeo",
+    "unit_price": 96.54,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0233-9779",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 155.2,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0234-8933",
+    "description": "Thermostat housing Front Monroe",
+    "unit_price": 25.98,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0235-9595",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 84.66,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0236-2647",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 38.36,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0237-6912",
+    "description": "Freight pallet strap kit RH NGK",
+    "unit_price": 21.92,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0238-9751",
+    "description": "LTL dock seal gasket RH Continental",
+    "unit_price": 65.81,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0239-1893",
+    "description": "Cabin air filter Universal Freightliner OEM",
+    "unit_price": 16.6,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0240-3068",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 72.4,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0241-1200",
+    "description": "Oil filter Universal Denso",
+    "unit_price": 10.45,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0242-8843",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 187.41,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0243-1841",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 185.51,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0244-8827",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 495.84,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0245-7565",
+    "description": "Water pump Rear NTK",
+    "unit_price": 178.87,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0246-1878",
+    "description": "Timing belt kit RH SKF",
+    "unit_price": 70.19,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0247-5978",
+    "description": "Spark plug iridium LH Timken",
+    "unit_price": 8.01,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0248-2940",
+    "description": "O2 sensor Universal Dayco",
+    "unit_price": 139.28,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0249-4697",
+    "description": "Wheel hub bearing Universal Mann-Filter",
+    "unit_price": 177.6,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0250-8253",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 158.19,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0251-8025",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 167.63,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0252-1986",
+    "description": "Control arm Universal Valeo",
+    "unit_price": 161.57,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0253-2625",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 329.23,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0254-5335",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 57.66,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0255-3847",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 32.45,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0256-1043",
+    "description": "ABS wheel sensor Rear Fel-Pro",
+    "unit_price": 21.93,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0257-8699",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 29.17,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0258-5720",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 29.41,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0259-8438",
+    "description": "Cabin air filter LH Freightliner OEM",
+    "unit_price": 31.6,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0260-5334",
+    "description": "Brake pad set Universal Bosch",
+    "unit_price": 132.48,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0261-4241",
+    "description": "Oil filter Rear Denso",
+    "unit_price": 31.96,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0262-4683",
+    "description": "Alternator reman RH ACDelco",
+    "unit_price": 132.3,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0263-3330",
+    "description": "Starter motor LH Motorcraft",
+    "unit_price": 352.98,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0264-6039",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 134.45,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0265-5728",
+    "description": "Water pump Rear NTK",
+    "unit_price": 166.07,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0266-5982",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 80.49,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0267-9199",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 26.65,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0268-2317",
+    "description": "O2 sensor Universal Dayco",
+    "unit_price": 80.27,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0269-8078",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 47.17,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0270-1423",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 212.91,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0271-1339",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 66.63,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0272-3870",
+    "description": "Control arm Rear Valeo",
+    "unit_price": 163.13,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0273-8245",
+    "description": "Fuel pump module Front TRW",
+    "unit_price": 210.12,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0274-8141",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 25.25,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0275-8700",
+    "description": "Ignition coil Front Moog",
+    "unit_price": 107.15,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0276-6260",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 48.26,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0277-6403",
+    "description": "Freight pallet strap kit Rear NGK",
+    "unit_price": 48.31,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0278-5722",
+    "description": "LTL dock seal gasket Rear Continental",
+    "unit_price": 118.65,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0279-1601",
+    "description": "Cabin air filter Rear Freightliner OEM",
+    "unit_price": 35.47,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0280-5135",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 41.39,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0281-7622",
+    "description": "Oil filter Universal Denso",
+    "unit_price": 10.96,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0282-1018",
+    "description": "Alternator reman Universal ACDelco",
+    "unit_price": 363.1,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0283-1888",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 221.28,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0284-9167",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 322.56,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0285-4335",
+    "description": "Water pump Front NTK",
+    "unit_price": 168.0,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0286-5719",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 167.59,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0287-8941",
+    "description": "Spark plug iridium LH Timken",
+    "unit_price": 25.2,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0288-4920",
+    "description": "O2 sensor RH Dayco",
+    "unit_price": 25.41,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0289-1224",
+    "description": "Wheel hub bearing Universal Mann-Filter",
+    "unit_price": 95.94,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0290-4681",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 164.96,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0291-2924",
+    "description": "Shock absorber RH Mahle",
+    "unit_price": 103.83,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0292-5781",
+    "description": "Control arm Universal Valeo",
+    "unit_price": 147.17,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0293-7807",
+    "description": "Fuel pump module Rear TRW",
+    "unit_price": 260.46,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0294-4993",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 83.56,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0295-7284",
+    "description": "Ignition coil RH Moog",
+    "unit_price": 68.72,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0296-9327",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 88.83,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0297-5526",
+    "description": "Freight pallet strap kit Rear NGK",
+    "unit_price": 48.61,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0298-9318",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 70.88,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0299-5634",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 35.72,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0300-9022",
+    "description": "Brake pad set RH Bosch",
+    "unit_price": 155.3,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0301-8935",
+    "description": "Oil filter Front Denso",
+    "unit_price": 23.69,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0302-9903",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 203.04,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0303-6272",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 219.33,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0304-4912",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 512.12,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0305-7730",
+    "description": "Water pump LH NTK",
+    "unit_price": 102.02,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0306-8749",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 120.23,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0307-3492",
+    "description": "Spark plug iridium Rear Timken",
+    "unit_price": 13.57,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0308-3068",
+    "description": "O2 sensor Universal Dayco",
+    "unit_price": 135.85,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0309-6439",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 213.76,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0310-8213",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 279.18,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0311-8486",
+    "description": "Shock absorber LH Mahle",
+    "unit_price": 114.15,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0312-7717",
+    "description": "Control arm RH Valeo",
+    "unit_price": 193.1,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0313-5342",
+    "description": "Fuel pump module Front TRW",
+    "unit_price": 90.2,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0314-7512",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 57.5,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0315-9742",
+    "description": "Ignition coil Rear Moog",
+    "unit_price": 96.36,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0316-8994",
+    "description": "ABS wheel sensor Universal Fel-Pro",
+    "unit_price": 91.38,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0317-2121",
+    "description": "Freight pallet strap kit RH NGK",
+    "unit_price": 9.69,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0318-5708",
+    "description": "LTL dock seal gasket RH Continental",
+    "unit_price": 110.21,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0319-8110",
+    "description": "Cabin air filter LH Freightliner OEM",
+    "unit_price": 33.14,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0320-2646",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 143.58,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0321-5906",
+    "description": "Oil filter LH Denso",
+    "unit_price": 12.91,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0322-1919",
+    "description": "Alternator reman Front ACDelco",
+    "unit_price": 109.95,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0323-8056",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 190.75,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0324-7751",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 210.12,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0325-3950",
+    "description": "Water pump RH NTK",
+    "unit_price": 154.32,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0326-7267",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 90.89,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0327-9153",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 20.55,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0328-8555",
+    "description": "O2 sensor Front Dayco",
+    "unit_price": 38.89,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0329-1153",
+    "description": "Wheel hub bearing Rear Mann-Filter",
+    "unit_price": 122.72,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0330-9955",
+    "description": "CV axle assembly RH Wix",
+    "unit_price": 285.8,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0331-6661",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 41.82,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0332-7951",
+    "description": "Control arm Front Valeo",
+    "unit_price": 106.33,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0333-5949",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 193.35,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0334-8916",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 84.95,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0335-6881",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 39.82,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0336-5837",
+    "description": "ABS wheel sensor LH Fel-Pro",
+    "unit_price": 39.37,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0337-7484",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 53.96,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0338-1803",
+    "description": "LTL dock seal gasket Universal Continental",
+    "unit_price": 26.09,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0339-5689",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 33.08,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0340-6772",
+    "description": "Brake pad set RH Bosch",
+    "unit_price": 120.27,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0341-5106",
+    "description": "Oil filter RH Denso",
+    "unit_price": 31.01,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0342-1645",
+    "description": "Alternator reman Front ACDelco",
+    "unit_price": 299.18,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0343-1546",
+    "description": "Starter motor Universal Motorcraft",
+    "unit_price": 317.64,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0344-3153",
+    "description": "Radiator assembly LH Gates",
+    "unit_price": 259.59,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0345-6352",
+    "description": "Water pump Rear NTK",
+    "unit_price": 194.18,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0346-3165",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 91.01,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0347-6994",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 25.1,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0348-5465",
+    "description": "O2 sensor RH Dayco",
+    "unit_price": 81.21,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0349-8894",
+    "description": "Wheel hub bearing Front Mann-Filter",
+    "unit_price": 86.25,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0350-6549",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 247.91,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0351-2233",
+    "description": "Shock absorber RH Mahle",
+    "unit_price": 104.93,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0352-4696",
+    "description": "Control arm Rear Valeo",
+    "unit_price": 199.6,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0353-6992",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 331.16,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0354-1228",
+    "description": "Thermostat housing Front Monroe",
+    "unit_price": 69.72,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0355-8451",
+    "description": "Ignition coil Front Moog",
+    "unit_price": 67.36,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0356-5295",
+    "description": "ABS wheel sensor Universal Fel-Pro",
+    "unit_price": 69.15,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0357-7086",
+    "description": "Freight pallet strap kit LH NGK",
+    "unit_price": 25.91,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0358-8724",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 116.1,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0359-6374",
+    "description": "Cabin air filter Universal Freightliner OEM",
+    "unit_price": 28.68,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0360-2035",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 61.65,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0361-5951",
+    "description": "Oil filter Rear Denso",
+    "unit_price": 41.51,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0362-1742",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 132.92,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0363-9071",
+    "description": "Starter motor LH Motorcraft",
+    "unit_price": 174.79,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0364-9807",
+    "description": "Radiator assembly RH Gates",
+    "unit_price": 149.85,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0365-7078",
+    "description": "Water pump Universal NTK",
+    "unit_price": 103.01,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0366-3531",
+    "description": "Timing belt kit Rear SKF",
+    "unit_price": 140.92,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0367-9017",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 19.89,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0368-5583",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 70.16,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0369-4559",
+    "description": "Wheel hub bearing Rear Mann-Filter",
+    "unit_price": 164.25,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0370-4868",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 173.95,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0371-7018",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 45.9,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0372-6876",
+    "description": "Control arm LH Valeo",
+    "unit_price": 229.85,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0373-4109",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 177.5,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0374-8450",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 81.28,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0375-1349",
+    "description": "Ignition coil LH Moog",
+    "unit_price": 78.97,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0376-4990",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 78.16,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0377-4362",
+    "description": "Freight pallet strap kit LH NGK",
+    "unit_price": 44.99,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0378-4394",
+    "description": "LTL dock seal gasket Universal Continental",
+    "unit_price": 137.03,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0379-4817",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 14.56,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0380-1046",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 145.7,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0381-3370",
+    "description": "Oil filter RH Denso",
+    "unit_price": 39.55,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0382-3858",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 270.57,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0383-1422",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 280.01,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0384-4898",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 116.09,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0385-3854",
+    "description": "Water pump Front NTK",
+    "unit_price": 91.66,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0386-7897",
+    "description": "Timing belt kit Universal SKF",
+    "unit_price": 65.74,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0387-2041",
+    "description": "Spark plug iridium Rear Timken",
+    "unit_price": 7.17,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0388-6931",
+    "description": "O2 sensor Universal Dayco",
+    "unit_price": 74.9,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0389-8405",
+    "description": "Wheel hub bearing Universal Mann-Filter",
+    "unit_price": 146.86,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0390-1710",
+    "description": "CV axle assembly Universal Wix",
+    "unit_price": 119.28,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0391-1510",
+    "description": "Shock absorber LH Mahle",
+    "unit_price": 78.26,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0392-7580",
+    "description": "Control arm Rear Valeo",
+    "unit_price": 249.71,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0393-9032",
+    "description": "Fuel pump module Rear TRW",
+    "unit_price": 255.25,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0394-2323",
+    "description": "Thermostat housing Front Monroe",
+    "unit_price": 17.36,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0395-2076",
+    "description": "Ignition coil RH Moog",
+    "unit_price": 73.96,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0396-9984",
+    "description": "ABS wheel sensor Front Fel-Pro",
+    "unit_price": 37.73,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0397-9692",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 25.9,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0398-8048",
+    "description": "LTL dock seal gasket LH Continental",
+    "unit_price": 86.25,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0399-2874",
+    "description": "Cabin air filter Universal Freightliner OEM",
+    "unit_price": 34.76,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0400-4522",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 137.57,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0401-4743",
+    "description": "Oil filter Rear Denso",
+    "unit_price": 23.88,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0402-8430",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 205.15,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0403-2557",
+    "description": "Starter motor Front Motorcraft",
+    "unit_price": 207.72,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0404-5176",
+    "description": "Radiator assembly Front Gates",
+    "unit_price": 284.97,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0405-8770",
+    "description": "Water pump LH NTK",
+    "unit_price": 201.88,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0406-2398",
+    "description": "Timing belt kit LH SKF",
+    "unit_price": 73.7,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0407-7105",
+    "description": "Spark plug iridium RH Timken",
+    "unit_price": 14.65,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0408-6400",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 87.65,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0409-7929",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 113.95,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0410-6119",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 302.26,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0411-9313",
+    "description": "Shock absorber RH Mahle",
+    "unit_price": 46.58,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0412-8900",
+    "description": "Control arm RH Valeo",
+    "unit_price": 76.72,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0413-6736",
+    "description": "Fuel pump module Universal TRW",
+    "unit_price": 298.76,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0414-5564",
+    "description": "Thermostat housing Universal Monroe",
+    "unit_price": 38.83,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0415-8030",
+    "description": "Ignition coil Universal Moog",
+    "unit_price": 38.81,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0416-1430",
+    "description": "ABS wheel sensor Universal Fel-Pro",
+    "unit_price": 92.99,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0417-5381",
+    "description": "Freight pallet strap kit LH NGK",
+    "unit_price": 51.67,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0418-6062",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 49.36,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0419-3972",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 19.29,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0420-7566",
+    "description": "Brake pad set LH Bosch",
+    "unit_price": 114.08,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0421-1502",
+    "description": "Oil filter LH Denso",
+    "unit_price": 11.96,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0422-4524",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 337.49,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0423-6585",
+    "description": "Starter motor RH Motorcraft",
+    "unit_price": 208.85,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0424-6314",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 261.72,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0425-1861",
+    "description": "Water pump RH NTK",
+    "unit_price": 139.34,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0426-1815",
+    "description": "Timing belt kit LH SKF",
+    "unit_price": 87.27,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0427-7947",
+    "description": "Spark plug iridium Rear Timken",
+    "unit_price": 10.89,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0428-7785",
+    "description": "O2 sensor Front Dayco",
+    "unit_price": 93.63,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0429-9394",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 78.8,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0430-2816",
+    "description": "CV axle assembly Front Wix",
+    "unit_price": 149.57,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0431-8972",
+    "description": "Shock absorber Universal Mahle",
+    "unit_price": 138.51,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0432-1744",
+    "description": "Control arm RH Valeo",
+    "unit_price": 181.76,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0433-1897",
+    "description": "Fuel pump module LH TRW",
+    "unit_price": 176.72,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0434-4460",
+    "description": "Thermostat housing RH Monroe",
+    "unit_price": 26.92,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0435-5742",
+    "description": "Ignition coil Front Moog",
+    "unit_price": 88.3,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0436-9149",
+    "description": "ABS wheel sensor Rear Fel-Pro",
+    "unit_price": 25.48,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0437-7229",
+    "description": "Freight pallet strap kit Universal NGK",
+    "unit_price": 16.26,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0438-9196",
+    "description": "LTL dock seal gasket Universal Continental",
+    "unit_price": 120.0,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0439-6802",
+    "description": "Cabin air filter LH Freightliner OEM",
+    "unit_price": 36.17,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0440-1693",
+    "description": "Brake pad set Rear Bosch",
+    "unit_price": 88.35,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0441-2275",
+    "description": "Oil filter Front Denso",
+    "unit_price": 7.22,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0442-7626",
+    "description": "Alternator reman Rear ACDelco",
+    "unit_price": 282.12,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0443-7636",
+    "description": "Starter motor LH Motorcraft",
+    "unit_price": 170.41,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0444-3815",
+    "description": "Radiator assembly Universal Gates",
+    "unit_price": 506.14,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0445-6928",
+    "description": "Water pump LH NTK",
+    "unit_price": 115.52,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0446-2734",
+    "description": "Timing belt kit RH SKF",
+    "unit_price": 144.53,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0447-7560",
+    "description": "Spark plug iridium Universal Timken",
+    "unit_price": 14.74,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0448-6083",
+    "description": "O2 sensor Front Dayco",
+    "unit_price": 31.28,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0449-3754",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 79.88,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0450-2868",
+    "description": "CV axle assembly Universal Wix",
+    "unit_price": 190.07,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0451-6724",
+    "description": "Shock absorber Front Mahle",
+    "unit_price": 111.59,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0452-3419",
+    "description": "Control arm RH Valeo",
+    "unit_price": 194.11,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0453-5193",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 97.76,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0454-3504",
+    "description": "Thermostat housing LH Monroe",
+    "unit_price": 24.67,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0455-9095",
+    "description": "Ignition coil Rear Moog",
+    "unit_price": 34.3,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0456-8354",
+    "description": "ABS wheel sensor Universal Fel-Pro",
+    "unit_price": 75.6,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0457-6295",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 38.22,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0458-2118",
+    "description": "LTL dock seal gasket Rear Continental",
+    "unit_price": 45.38,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0459-5961",
+    "description": "Cabin air filter Front Freightliner OEM",
+    "unit_price": 22.48,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0460-6766",
+    "description": "Brake pad set Universal Bosch",
+    "unit_price": 117.9,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0461-8565",
+    "description": "Oil filter Rear Denso",
+    "unit_price": 9.36,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0462-7041",
+    "description": "Alternator reman Front ACDelco",
+    "unit_price": 107.22,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0463-2479",
+    "description": "Starter motor Universal Motorcraft",
+    "unit_price": 107.64,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0464-7299",
+    "description": "Radiator assembly Rear Gates",
+    "unit_price": 353.57,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0465-1672",
+    "description": "Water pump Rear NTK",
+    "unit_price": 136.56,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0466-4084",
+    "description": "Timing belt kit Front SKF",
+    "unit_price": 241.36,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0467-9214",
+    "description": "Spark plug iridium RH Timken",
+    "unit_price": 18.72,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0468-8381",
+    "description": "O2 sensor LH Dayco",
+    "unit_price": 135.01,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0469-6626",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 185.97,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0470-3827",
+    "description": "CV axle assembly LH Wix",
+    "unit_price": 188.61,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0471-8172",
+    "description": "Shock absorber Rear Mahle",
+    "unit_price": 69.64,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0472-3600",
+    "description": "Control arm Front Valeo",
+    "unit_price": 152.43,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0473-5634",
+    "description": "Fuel pump module Rear TRW",
+    "unit_price": 170.67,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0474-6543",
+    "description": "Thermostat housing Universal Monroe",
+    "unit_price": 41.84,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0475-6482",
+    "description": "Ignition coil LH Moog",
+    "unit_price": 22.82,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0476-7333",
+    "description": "ABS wheel sensor Front Fel-Pro",
+    "unit_price": 42.05,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0477-3463",
+    "description": "Freight pallet strap kit Front NGK",
+    "unit_price": 19.84,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0478-3317",
+    "description": "LTL dock seal gasket Front Continental",
+    "unit_price": 36.0,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0479-7421",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 17.86,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0480-2388",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 118.45,
+    "vendor": "Bosch",
+    "category": "BRK"
+  },
+  {
+    "part_number": "FLT-0481-6381",
+    "description": "Oil filter RH Denso",
+    "unit_price": 28.02,
+    "vendor": "Denso",
+    "category": "FLT"
+  },
+  {
+    "part_number": "ALT-0482-9624",
+    "description": "Alternator reman LH ACDelco",
+    "unit_price": 312.79,
+    "vendor": "ACDelco",
+    "category": "ALT"
+  },
+  {
+    "part_number": "STR-0483-7937",
+    "description": "Starter motor Universal Motorcraft",
+    "unit_price": 275.58,
+    "vendor": "Motorcraft",
+    "category": "STR"
+  },
+  {
+    "part_number": "RAD-0484-6940",
+    "description": "Radiator assembly Front Gates",
+    "unit_price": 258.35,
+    "vendor": "Gates",
+    "category": "RAD"
+  },
+  {
+    "part_number": "WP-0485-4509",
+    "description": "Water pump Front NTK",
+    "unit_price": 66.55,
+    "vendor": "NTK",
+    "category": "WP"
+  },
+  {
+    "part_number": "TB-0486-8967",
+    "description": "Timing belt kit RH SKF",
+    "unit_price": 249.27,
+    "vendor": "SKF",
+    "category": "TB"
+  },
+  {
+    "part_number": "SPK-0487-3253",
+    "description": "Spark plug iridium RH Timken",
+    "unit_price": 9.82,
+    "vendor": "Timken",
+    "category": "SPK"
+  },
+  {
+    "part_number": "SEN-0488-2657",
+    "description": "O2 sensor Universal Dayco",
+    "unit_price": 31.11,
+    "vendor": "Dayco",
+    "category": "SEN"
+  },
+  {
+    "part_number": "HUB-0489-9626",
+    "description": "Wheel hub bearing LH Mann-Filter",
+    "unit_price": 178.76,
+    "vendor": "Mann-Filter",
+    "category": "HUB"
+  },
+  {
+    "part_number": "CV-0490-3147",
+    "description": "CV axle assembly Universal Wix",
+    "unit_price": 227.17,
+    "vendor": "Wix",
+    "category": "CV"
+  },
+  {
+    "part_number": "SHK-0491-3658",
+    "description": "Shock absorber RH Mahle",
+    "unit_price": 90.28,
+    "vendor": "Mahle",
+    "category": "SHK"
+  },
+  {
+    "part_number": "CTL-0492-3712",
+    "description": "Control arm Rear Valeo",
+    "unit_price": 215.43,
+    "vendor": "Valeo",
+    "category": "CTL"
+  },
+  {
+    "part_number": "FPM-0493-6968",
+    "description": "Fuel pump module RH TRW",
+    "unit_price": 81.8,
+    "vendor": "TRW",
+    "category": "FPM"
+  },
+  {
+    "part_number": "TMO-0494-5668",
+    "description": "Thermostat housing Rear Monroe",
+    "unit_price": 82.78,
+    "vendor": "Monroe",
+    "category": "TMO"
+  },
+  {
+    "part_number": "IGC-0495-4918",
+    "description": "Ignition coil Front Moog",
+    "unit_price": 39.53,
+    "vendor": "Moog",
+    "category": "IGC"
+  },
+  {
+    "part_number": "ABS-0496-8684",
+    "description": "ABS wheel sensor RH Fel-Pro",
+    "unit_price": 92.28,
+    "vendor": "Fel-Pro",
+    "category": "ABS"
+  },
+  {
+    "part_number": "FRT-0497-8218",
+    "description": "Freight pallet strap kit Rear NGK",
+    "unit_price": 25.29,
+    "vendor": "NGK",
+    "category": "FRT"
+  },
+  {
+    "part_number": "LTL-0498-7256",
+    "description": "LTL dock seal gasket Universal Continental",
+    "unit_price": 128.87,
+    "vendor": "Continental",
+    "category": "LTL"
+  },
+  {
+    "part_number": "AIR-0499-3655",
+    "description": "Cabin air filter RH Freightliner OEM",
+    "unit_price": 25.46,
+    "vendor": "Freightliner OEM",
+    "category": "AIR"
+  },
+  {
+    "part_number": "BRK-0500-3267",
+    "description": "Brake pad set Front Bosch",
+    "unit_price": 149.79,
+    "vendor": "Bosch",
+    "category": "BRK"
+  }
+]
