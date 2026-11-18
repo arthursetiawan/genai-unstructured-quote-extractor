@@ -2,6 +2,20 @@
 
 Applied GenAI pipeline that turns messy automotive / freight quote text (including simulated PDF invoice OCR) into structured **Pydantic v2** line items, then reconciles them against a **500-part mock OEM catalog** with **rapidfuzz**.
 
+## Charter
+
+| | |
+|---|---|
+| **Product** | Messy quote / invoice text → structured JSON rows → fuzzy match against a synthetic OEM catalog. |
+| **North star** | A recruiter clones the repo and runs **Streamlit** or the offline smoke script with **no API keys**; optional Gemini when keys are present. |
+| **Primary demo** | [Portfolio mock UX](https://arthursetiawan.github.io/demos/genai-quote/) · runnable: `streamlit run app.py` |
+| **Fixtures** | [`data/samples/`](./data/samples/README.md) — three synthetic OCR / dealer-quote stress cases |
+| **Offline runbook** | [`docs/offline-runbook.md`](./docs/offline-runbook.md) — mock vs Gemini/OpenAI modes, CI, fallbacks |
+| **Companion repos** | [Automotive dynamic pricing](https://github.com/arthursetiawan/automotive-dynamic-pricing-engine) (guardrailed ML pricing) · [Dealer-Counter AI](https://github.com/arthursetiawan/vehicle-negotiator-engine) (negotiation audit) |
+| **Non-goals** | Employer IP, real customer quotes, inflated production metrics. |
+
+**Program sprint iter 1:** Charter block, documented fixtures, offline smoke + CI. **Next (iter 2):** GitHub Actions badge in README; optional thin FastAPI `/extract` wrapper aligned with the portfolio demo copy.
+
 ## Features
 
 - **Extraction** into `PartNumber`, `Description`, `UnitCost`, `CompetitorPrice`, `Vendor`
@@ -50,6 +64,17 @@ Copy `.env.example` to `.env` and optionally set:
 | `LLM_MAX_RETRIES` | Defensive retry count (default `3`) |
 
 With no keys (or `QUOTE_EXTRACTOR_MODE=mock`), the deterministic heuristic extractor is used.
+
+See [`docs/offline-runbook.md`](./docs/offline-runbook.md) for the full mock vs LLM matrix.
+
+### Offline smoke (recruiters, no keys)
+
+```bash
+pip install -e .
+python scripts/offline_smoke.py
+```
+
+Runs mock extraction + catalog reconciliation on every file in `data/samples/`.
 
 ## Run the Streamlit demo
 
