@@ -1,0 +1,26 @@
+{
+  "source": "invoice_freight_ltl.txt",
+  "line_items": [
+    {
+      "PartNumber": "BRK-0007-4412",
+      "Description": "Brake pad set Front Bosch",
+      "UnitCost": 64.5,
+      "CompetitorPrice": 71.2,
+      "Vendor": "Bosch"
+    },
+    {
+      "PartNumber": "FLT-0012-8831",
+      "Description": "Oil filter Universal Mann-Filter",
+      "UnitCost": 12.75,
+      "CompetitorPrice": null,
+      "Vendor": "Mann-Filter"
+    },
+    {
+      "PartNumber": "ALT-0023-5501",
+      "Description": "Alternator reman Front Denso",
+      "UnitCost": 188.0,
+      "CompetitorPrice": 205.4,
+      "Vendor": "Denso"
+    }
+  ]
+}

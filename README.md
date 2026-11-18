@@ -14,7 +14,24 @@ Applied GenAI pipeline that turns messy automotive / freight quote text (includi
 | **Companion repos** | [Automotive dynamic pricing](https://github.com/arthursetiawan/automotive-dynamic-pricing-engine) (guardrailed ML pricing) · [Dealer-Counter AI](https://github.com/arthursetiawan/vehicle-negotiator-engine) (negotiation audit) |
 | **Non-goals** | Employer IP, real customer quotes, inflated production metrics. |
 
-**Program sprint iter 1:** Charter block, documented fixtures, offline smoke + CI. **Next (iter 2):** GitHub Actions badge in README; optional thin FastAPI `/extract` wrapper aligned with the portfolio demo copy.
+**Program sprint iter 1:** Charter block, documented fixtures, offline smoke + CI. **Iter 2:** Problem brief, EDA + extraction metrics on synthetic gold, business outcome below.
+
+## Business outcome
+
+**Customer:** Parts pricing / procurement ops re-keying messy dealer and freight quotes.
+
+**Before:** Multi-line PDFs and OCR faxes → manual typing into pricing tools → errors on garbled part numbers → no signal for which rows need an analyst.
+
+**After (this repo, synthetic data):**
+
+| Outcome | Evidence |
+|---------|----------|
+| Structured rows without API keys | Mock extractor + `pytest` / `scripts/offline_smoke.py` |
+| **100%** line recall on gold corpus (mock) | [`reports/extraction_metrics.md`](./reports/extraction_metrics.md) |
+| **90%** auto-reconcile; **10%** review queue | [`reports/eda_summary.md`](./reports/eda_summary.md) (`ZZ-9999-0000` demo) |
+| Intake problem framing + KPIs | [`docs/problem.md`](./docs/problem.md) |
+
+**North-star KPI:** cut manual quote-entry hours per 100 line items (target ≥ 80% reduction on representative intake). Portfolio hook: upload messy doc → validated lines in seconds.
 
 ## Features
 
@@ -30,6 +47,11 @@ Applied GenAI pipeline that turns messy automotive / freight quote text (includi
 ```text
 app.py                      # Streamlit demo
 reconcile.py                # rapidfuzz reconciliation entrypoint
+docs/problem.md             # Customer, pain, success metrics (iter 2)
+reports/                    # eda_summary.md, extraction_metrics.md (regenerate via scripts/)
+scripts/eda_corpus.py       # Corpus EDA → reports/eda_summary.md
+scripts/eval_extraction.py  # Gold-label precision/recall
+data/gold/                  # Synthetic expected line items
 src/quote_extractor/
   models.py                 # Pydantic v2 schemas
   llm.py                    # Gemini / OpenAI / mock clients + retries

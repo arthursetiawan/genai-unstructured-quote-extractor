@@ -1,0 +1,33 @@
+{
+  "source": "invoice_dealer_parts.txt",
+  "line_items": [
+    {
+      "PartNumber": "BRK-0027-1190",
+      "Description": "Brake pad set Rear Motorcraft",
+      "UnitCost": 92.1,
+      "CompetitorPrice": 98.0,
+      "Vendor": "Motorcraft"
+    },
+    {
+      "PartNumber": "WP-0034-2204",
+      "Description": "Water pump Front Gates",
+      "UnitCost": 74.25,
+      "CompetitorPrice": null,
+      "Vendor": "Gates"
+    },
+    {
+      "PartNumber": "SEN-0041-7730",
+      "Description": "O2 sensor Upstream NTK",
+      "UnitCost": 48.6,
+      "CompetitorPrice": 52.15,
+      "Vendor": "NTK"
+    },
+    {
+      "PartNumber": "HUB-0055-9012",
+      "Description": "Wheel hub bearing RH Timken",
+      "UnitCost": 129.99,
+      "CompetitorPrice": null,
+      "Vendor": "Timken"
+    }
+  ]
+}

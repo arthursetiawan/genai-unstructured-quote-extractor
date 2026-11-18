@@ -1,0 +1,26 @@
+{
+  "source": "invoice_noisy_ocr.txt",
+  "line_items": [
+    {
+      "PartNumber": "BRK-0007-4412",
+      "Description": "Brake pad set Front",
+      "UnitCost": 66.0,
+      "CompetitorPrice": 70.0,
+      "Vendor": "Bosch"
+    },
+    {
+      "PartNumber": "FLT-0012-8831",
+      "Description": "Oil filter universal",
+      "UnitCost": 14.0,
+      "CompetitorPrice": null,
+      "Vendor": "Mann Filter"
+    },
+    {
+      "PartNumber": "ZZ-9999-0000",
+      "Description": "Mystery gasket unknown",
+      "UnitCost": 999.99,
+      "CompetitorPrice": null,
+      "Vendor": "NoSuchVendor Inc"
+    }
+  ]
+}
